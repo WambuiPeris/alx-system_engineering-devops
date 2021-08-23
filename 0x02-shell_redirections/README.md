@@ -1,0 +1,1 @@
+all your files should be exactly #!/bin/bash
